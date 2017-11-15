@@ -1,0 +1,16 @@
+{
+    "name": "I2Cdev",
+    "version": "1.0.0",
+    "keywords": "I2C",
+    "description": "I2C通讯库,使用的是Wire固件接口",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/I2Cdev.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
